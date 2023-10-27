@@ -274,12 +274,6 @@ address {
 .features-item {
   flex-basis: calc((100% - 72px) / 4);
 }
-@media (min-width: 320px) {
-}
-@media (min-width: 768px) {
-}
-@media (min-width: 1440px) {
-}
 
 /* =============team================ */
 .team {
